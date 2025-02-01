@@ -1,7 +1,7 @@
-         ## Hi 👋, I'm Mahfuj Raza
-     ###             Data Scientist
-<!-- Data Scientist intern in AlmaBetter -->
-<!--Always Learn New Thinks -->
+## Hi 👋, I'm Mahfuj Raza
+ ###             Data Scientist
+     Data Scientist intern in AlmaBetter
+       Always Learn New Thinks
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Welcome+to+my+GitHub+profile!)
 
 <!-- Side sticker or image -->
