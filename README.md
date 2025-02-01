@@ -13,18 +13,16 @@
 
 ## About Me
 
-- 🌱 I’m currently learning **Computer Vision, Power BI, Machine Learning**
+- 🌱 I’m currently learning Power BI, Machine Learning**
 - 👯 I’m looking to collaborate on **Deep Learning & Machine Learning Projects**
 - 💬 Ask me about **SQL, Machine Learning, Python**
-- 📫 How to reach me: **[your-email@example.com](mailto:your-email@example.com)**
+- 📫 How to reach me: **mehfooz1008@gmail.com**
 - ⚡ Fun fact: **I have a black belt in problem-solving. With my ninja-like skills, I'm always ready to tackle challenges head-on and provide innovative solutions.**
 
 ---
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/your-hackerrank-profile)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-leetcode-profile/)
+[![LinkedIn]www.linkedin.com/in/mahfuj-raza-6906681b3
 
 ---
 
@@ -33,7 +31,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+!Machine Learning (https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
