@@ -1,8 +1,8 @@
 # Hi 👋, I'm ,  MAHFUJ RAZA
 ###  Data Scientist
 
-<!-- Typing SVG or other animations -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Welcome+to+my+GitHub+profile!)
+<!-- abcTyping SVG or other animations -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Welcome+To+My+GitHub+Profile!;Always+Learn+New+Things;Data+Scientist+Intern+At+AlmaBetter)
 
 <!-- Side sticker or image -->
 <div align="center">
@@ -36,15 +36,6 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-
----
-
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=radical)
-
----
 
 ## Support
 💙 If you like my projects, give them ⭐ and share them with friends!
