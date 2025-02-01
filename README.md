@@ -1,6 +1,12 @@
-## Hi there 👋
+## Hi 👋, I'm Mahfuj Raza
+###   Data Scientist
+<!-- Typing SVG or other animations -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Welcome+to+my+GitHub+profile!)
 
-<!--
+<!-- Side sticker or image -->
+<div align="center">
+  <img src="https://media.giphy.com/media/your-gif-link.gif" width="200"/>
+</div>
 **Mehfooz-1806/Mehfooz-1806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
